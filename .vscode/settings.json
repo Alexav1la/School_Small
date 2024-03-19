@@ -1,0 +1,20 @@
+{
+    "java.compile.nullAnalysis.mode": "automatic",
+    "cSpell.words": [
+        "apellido",
+        "autho",
+        "Controlador",
+        "Cuenta",
+        "exito",
+        "guardar",
+        "iniciosesion",
+        "nombre",
+        "registro",
+        "Repositorio",
+        "Servicio",
+        "springframework",
+        "usuario",
+        "usuarios"
+    ],
+    "java.configuration.updateBuildConfiguration": "interactive"
+}
